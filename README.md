@@ -6,7 +6,7 @@
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-FE2E64?style=flat-square&logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-FE2E64?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-6E6E6E?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
