@@ -11,5 +11,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MarkDown-086A87?style=flat-square&logo=MarkDown&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-086A87?style=flat-square&logo=MarkDown&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidongkuen&show_icons=true&theme=radical)
