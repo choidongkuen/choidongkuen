@@ -10,7 +10,7 @@
 <img alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt = "CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img alt = "MarkDown" src="https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=MarkDown&logoColor=white"/><br>
+<img alt = "MarkDown" src="https://img.shields.io/badge/MarkDown-A5915F?style=for-the-badge&logo=MarkDown&logoColor=white"/><br>
 <img alt=" MySQL" src ="https://img.shields.io/badge/MySQL-003545.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-1F305F.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/><br>
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
