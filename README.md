@@ -44,6 +44,18 @@
         <td>Backend Developer</td>
         <td>2023.09 ~ </td>
     </tr>
+    <tr>
+        <td><a href="https://demoday.neordinary.co.kr/">Neordinary</td>
+        <td><a href="https://github.com/4th-Neordinary-HACKATHON-Team-A">Team A</td>
+        <td>Backend Developer</td>
+        <td>2023.06.11</td>
+    </tr>
+    <tr>
+        <td><a href="https://builder.hufs.ac.kr/user/soft/">Hufs Univ</td>
+        <td><a href="https://github.com/hufs-hackathon">UnivLinker</td>
+        <td>Backend Developer</td>
+        <td>2023.06.24</td>
+    </tr>
 </table>
 
 <div align=center><h2>💻 My Stacks</h2></div>
