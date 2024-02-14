@@ -5,11 +5,52 @@
 다양한 프로젝트에서 서버 개발뿐만 아니라 서비스에 필요한 안정적인 인프라를 구축하여 서버 기반을 다진 경험이 많으며, 완성도 있는 프로젝트를 위해 항상 노력합니다.
 </div>
 
+<div align=center><h3>👥 My Experience </h3></div>
+<div align=center> 
+<table>
+    <tr>
+        <th>Organization</th>
+        <th>Project</th>
+        <th>Role</th>
+        <th>Period</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.depromeet.com/">Depromeet 14th</a></td>
+        <td><a href="https://github.com/depromeet/teum-teum-server">Teum-Teum</a></td>
+        <td>Backend Lead Developer</td>
+        <td>2023.11 ~ </td>
+    </tr>
+    <tr>
+        <td><center><a href="https://www.makeus.in/umc">UMC 4th</a></center></td>
+        <td><center><a href="https://github.com/RE-FIT">Re-Fit</a></center></td>
+        <td>Backend Developer</td>
+        <td>2023.06 ~ 2023.10</td>
+    </tr>
+    <tr>
+        <td><center><a href="https://zero-base.co.kr/?gad_source=1&gclid=Cj0KCQiA5rGuBhCnARIsAN11vgRLi-QznUUx7VihDPLcxpbygug1Fs7_6DPFzagK1l1OP56RCuJO2vMaAgnOEALw_wcB">ZeroBase 4th</a></center></td>
+        <td><center><a href="https://github.com/healthHealther">healthHealther</a></center></td>
+        <td>Backend Developer & Project Leader</td>
+        <td>2022.08 ~ 2023.02</td>
+    </tr>
+    <tr>
+        <td><a href="https://frosted-trowel-199.notion.site/6335771955cb45dfae1e46c8629b884a?pvs=4">HowMuchPay</a></td>
+        <td><a href="https://github.com/HowMuchPay">HowMuchPay</a></td>
+        <td>Backend Developer</td>
+        <td>2023.06 ~ 2023.11</td>
+    </tr>
+    <tr>
+        <td><a href="https://songeditor.notion.site/Better-f8d064d36bdc4198b29ce4fb9d76c13f?pvs=4">Better-iter</a></td>
+        <td><a href="https://github.com/BETTER-iTER">ITer</td>
+        <td>Backend Developer</td>
+        <td>2023.09 ~ </td>
+    </tr>
+</table>
+
 <div align=center><h3>💻 My Stacks</h3></div>
 
 <div align=center> 
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-    <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-C9284D.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
     <br>
 
