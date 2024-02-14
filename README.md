@@ -1,7 +1,9 @@
-### 🙋‍♂️ About me
+<div align=center> <h2> 🙋‍♂️ About Me </h2></div>
+<div align=center> 
 비즈니스 가치를 추구하는 개발자입니다.
 백엔드 개발을 담당하고 있으며, 인프라 구축 및 운영에도 많은 관심을 가지고 있습니다. <br>
 다양한 프로젝트에서 서버 개발뿐만 아니라 서비스에 필요한 안정적인 인프라를 구축하여 서버 기반을 다진 경험이 많으며, 완성도 있는 프로젝트를 위해 항상 노력합니다.
+</div>
 
 <div align=center><h3>💻 My Stacks</h3></div>
 
@@ -35,6 +37,7 @@
 </div>
 
 
-### 📊 My Github Stats
-
+<div align=center> <h2> 📊 My Github Stats</h2></div> 
+<div align=center> 
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidongkuen&show_icons=true&theme=nightowl)
