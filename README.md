@@ -60,7 +60,7 @@
         <td><a href="https://www.tosspayments.com/">Toss Payments</td>
         <td><a href="https://www.tosspayments.com/services">Replacing the PG module</td>
         <td>Backend Developer</td>
-        <td>2023.02.15 ~</td>
+        <td>2024.02.15 ~</td>
     </tr>
 </table>
 
