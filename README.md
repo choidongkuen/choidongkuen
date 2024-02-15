@@ -56,6 +56,12 @@
         <td>Backend Developer</td>
         <td>2023.06.24</td>
     </tr>
+    <tr>
+        <td><a href="https://www.tosspayments.com/">Toss Payments</td>
+        <td><a href="https://www.tosspayments.com/services">Replacing the PG module</td>
+        <td>Backend Developer</td>
+        <td>2023.02.15 ~</td>
+    </tr>
 </table>
 
 <div align=center><h2>💻 My Stacks</h2></div>
