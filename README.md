@@ -18,7 +18,7 @@
         <td><a href="https://www.depromeet.com/">Depromeet 14th</a></td>
         <td><a href="https://github.com/depromeet/teum-teum-server">Teum-Teum</a></td>
         <td>Backend Lead Developer</td>
-        <td>2023.11 ~ </td>
+        <td>2023.11 ~ 2024.03</td>
     </tr>
     <tr>
         <td><center><a href="https://www.makeus.in/umc">UMC 4th</a></center></td>
